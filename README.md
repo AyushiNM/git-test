@@ -1,2 +1,2 @@
 # git-test
-Experimenting with git basics (The Odin Project)
+The Odin Project
